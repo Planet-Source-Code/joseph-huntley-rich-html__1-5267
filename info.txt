@@ -1,0 +1,11 @@
+---------------------------------------
+Name:        Rich HTML
+Date:        October 4, 1999
+Author:      Joseph Huntley
+Level:       Beginner
+VB Version:  6.0
+IRC:         Joseph (irc.xnet.org)
+ICQ:         55449964
+E-mail:      joseph_huntley@email.com
+Webpage:     http://joseph.vr9.com
+---------------------------------------
